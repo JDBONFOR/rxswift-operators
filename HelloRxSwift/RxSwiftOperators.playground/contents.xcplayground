@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Ignore'/>
+        <page name='ElementAt'/>
+        <page name='Filter'/>
+        <page name='Skip'/>
+        <page name='skipWhile'/>
+        <page name='skipUntil'/>
+        <page name='Take'/>
+        <page name='takeWhile'/>
+        <page name='takeUntil'/>
+    </pages>
+</playground>
