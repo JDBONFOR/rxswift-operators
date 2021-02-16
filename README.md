@@ -18,3 +18,9 @@ Inside RxSwiftOperators.playground file, you found the diferents RxSwift operato
 - Take
 - Take While
 - Take Until
+
+### Transformer operators
+- toArray
+- map
+- flatMap
+- flatMapLatest

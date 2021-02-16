@@ -10,5 +10,9 @@
         <page name='Take'/>
         <page name='takeWhile'/>
         <page name='takeUntil'/>
+        <page name='toArray'/>
+        <page name='map'/>
+        <page name='flatMap'/>
+        <page name='flatMapLatest'/>
     </pages>
 </playground>
