@@ -24,3 +24,12 @@ Inside RxSwiftOperators.playground file, you found the diferents RxSwift operato
 - map
 - flatMap
 - flatMapLatest
+
+### Combining operators
+- Start With
+- Concat
+- Merge
+- Combine Latest
+- With Latest From
+- Reduce
+- Scan

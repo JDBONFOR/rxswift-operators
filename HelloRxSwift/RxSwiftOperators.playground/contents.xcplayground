@@ -14,5 +14,11 @@
         <page name='map'/>
         <page name='flatMap'/>
         <page name='flatMapLatest'/>
+        <page name='startWith'/>
+        <page name='concat'/>
+        <page name='merge'/>
+        <page name='combineLatest'/>
+        <page name='withLatestFrom'/>
+        <page name='reduce'/>
     </pages>
 </playground>
